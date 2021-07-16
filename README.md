@@ -1,13 +1,15 @@
 <a align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaram0410&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<h1>⚒ Garam Kim : Backend Engineer ⚒</h1>
+<h1>💻 Garam Kim : Backend Engineer</h1>
 
 - Hello! I'm backend developer Kim Garam!
 - Services that weren't in the world are now created one by one, used them well. So, now I'm lost in development to make services that weren't in the world.
 - If there is an interesting technology, I am a developer who thinks it is a fun experience to try and apply it rather than fear.
 - I mainly applied AI analysis data and analysis technology to Backend and developed a service that serves the client.
 
-<h1>Stacks</h1>
+<br>
+
+<h1>⚒ Stacks</h1>
 
 ![Hits](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white) ![Hits](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) <br>
  ![Hits](https://img.shields.io/badge/JSP-orange?style=flat-square&logo=java&logoColor=white) ![Hits](https://img.shields.io/badge/Spring_Boot-DeepBlue?style=flat-square&logo=SpringBoot&logoColor=white) ![Hits](https://img.shields.io/badge/MyBatis-gray?style=flat-square&logo=Textpattern&logoColor=white) ![Hits](https://img.shields.io/badge/REST_API-gray?style=flat-square&logo=Textpattern&logoColor=white)<br>
