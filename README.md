@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>⚒ Garam Kim : Backend Engineer ⚒</h1>
 
-<!--
-**garam0410/garam0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hello! I'm backend developer Kim Garam!
+- Services that weren't in the world are now created one by one, used them well. So, now I'm lost in development to make services that weren't in the world.
+- If there is an interesting technology, I am a developer who thinks it is a fun experience to try and apply it rather than fear.
+- I mainly applied AI analysis data and analysis technology to Backend and developed a service that serves the client.
 
-Here are some ideas to get you started:
+<h1>Stacks</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hits](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white) ![Hits](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) <br>
+ ![Hits](https://img.shields.io/badge/JSP-orange?style=flat-square&logo=java&logoColor=white) ![Hits](https://img.shields.io/badge/Spring_Boot-DeepBlue?style=flat-square&logo=SpringBoot&logoColor=white) ![Hits](https://img.shields.io/badge/MyBatis-gray?style=flat-square&logo=Textpattern&logoColor=white) ![Hits](https://img.shields.io/badge/REST_API-gray?style=flat-square&logo=Textpattern&logoColor=white)<br>
+![Hits](https://img.shields.io/badge/React_Native-00D9FF?style=flat-square&logo=React&logoColor=white) ![Hits](https://img.shields.io/badge/Android-deepgreen?style=flat-square&logo=Android&logoColor=white)<br>
+![Hits](https://img.shields.io/badge/GCP-red?style=flat-square&logo=Googlecloud&logoColor=white) ![Hits](https://img.shields.io/badge/NCP-darkgreen?style=flat-square&logo=naver&logoColor=white) ![Hits](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white) ![Hits](https://img.shields.io/badge/Jenkins-red?style=flat-square&logo=Jenkins&logoColor=white)<br>
+![Hits](https://img.shields.io/badge/MariaDB-darkblue?style=flat-square&logo=MariaDB&logoColor=white) ![Hits](https://img.shields.io/badge/MYSQL-1500BA?style=flat-square&logo=MYSQL&logoColor=white) ![Hits](https://img.shields.io/badge/Firebase-FFA400?style=flat-square&logo=Firebase&logoColor=white)<br>
