@@ -7,6 +7,8 @@
 - If there is an interesting technology, I am a developer who thinks it is a fun experience to try and apply it rather than fear.
 - I mainly applied AI analysis data and analysis technology to Backend and developed a service that serves the client.
 
+- **[Portfolio](https://frill-veil-381.notion.site/501c2aa54659499cab57f7c78092ed84)**
+
 <br>
 
 <h1>⚒ Stacks</h1>
